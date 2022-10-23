@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vinayboggavarapu/Dapp_Diwali-Greeting/static/css/main.421ca2a4.css",
-    "main.js": "/vinayboggavarapu/Dapp_Diwali-Greeting/static/js/main.5a18ca5e.js",
-    "static/media/play.mp4": "/vinayboggavarapu/Dapp_Diwali-Greeting/static/media/play.1b8f20452f6ce59fe9be.mp4",
-    "index.html": "/vinayboggavarapu/Dapp_Diwali-Greeting/index.html",
-    "main.421ca2a4.css.map": "/vinayboggavarapu/Dapp_Diwali-Greeting/static/css/main.421ca2a4.css.map",
-    "main.5a18ca5e.js.map": "/vinayboggavarapu/Dapp_Diwali-Greeting/static/js/main.5a18ca5e.js.map"
+    "main.css": "/Dapp_Diwali-Greeting/static/css/main.421ca2a4.css",
+    "main.js": "/Dapp_Diwali-Greeting/static/js/main.030f4493.js",
+    "static/media/play.mp4": "/Dapp_Diwali-Greeting/static/media/play.1b8f20452f6ce59fe9be.mp4",
+    "index.html": "/Dapp_Diwali-Greeting/index.html",
+    "main.421ca2a4.css.map": "/Dapp_Diwali-Greeting/static/css/main.421ca2a4.css.map",
+    "main.030f4493.js.map": "/Dapp_Diwali-Greeting/static/js/main.030f4493.js.map"
   },
   "entrypoints": [
     "static/css/main.421ca2a4.css",
-    "static/js/main.5a18ca5e.js"
+    "static/js/main.030f4493.js"
   ]
 }
