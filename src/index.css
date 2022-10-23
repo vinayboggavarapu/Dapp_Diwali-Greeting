@@ -57,6 +57,7 @@ h2{
 }
 .burst{
   transition:opacity 2s ease-in;
+  transition-delay: 1s;
   z-index:-1;
   position: absolute;
   top: 13rem;
